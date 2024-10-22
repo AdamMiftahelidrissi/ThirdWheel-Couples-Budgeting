@@ -27,7 +27,7 @@ BudgetApp is a budgeting application built using **Compose Multiplatform**, whic
 The app's UI is consistent across platforms. Here are screenshots of the app running on **iOS** to demonstrate its cross-platform functionality:
 
 ### Login Screen
-![Login Screen]("./ThirdWheel Screenshots/Home/Home Screen.png")
+![Login Screen](./ThirdWheel%20Screenshots/Home/Home%20Screen.png)
 
 ### Home Screen
 ![Home Screen](./images/home_screen.png)
