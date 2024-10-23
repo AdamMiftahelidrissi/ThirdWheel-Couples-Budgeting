@@ -3,7 +3,7 @@
 ![BudgetApp Logo](./images/budgetapp_logo.png) <!-- Add a logo if available -->
 
 ## Overview
-**BudgetApp** is a cross-platform budgeting application built using **Compose Multiplatform** with **Jetpack Compose**. It offers a **unified user interface** for both Android and iOS, focusing on a **minimalistic** and **user-friendly** design. The app helps users manage personal finances efficiently by tracking **income, expenses, balances**, and **budgets**.
+**BudgetApp** is a modern, cross-platform budgeting application built with **Compose Multiplatform** using **Jetpack Compose**. It provides a seamless **unified user interface** across both Android and iOS devices. Designed to be **minimalistic** and **user-friendly**, BudgetApp allows users to efficiently track **income, expenses, balances**, and **budgets**, making personal financial management simple and straightforward.
 
 ## Table of Contents
 - [Features](#features)
@@ -12,29 +12,29 @@
 - [Technologies Used](#technologies-used)
 
 ## Features
-BudgetApp provides the following core features:
-- **Cross-platform Compatibility**: Single codebase for a consistent user experience on both Android and iOS.
-- **Minimalistic UI**: A clean and intuitive interface that simplifies financial management.
-- **User Account Management**: Users can create accounts, log in, and reset passwords.
+BudgetApp boasts a robust set of features that ensure a comprehensive and user-centric financial tracking experience:
+- **Cross-platform Compatibility**: A single codebase for a consistent experience across Android and iOS.
+- **Minimalistic UI**: Clean, intuitive design that emphasizes simplicity and clarity.
+- **User Account Management**: Supports secure account creation, login, and password recovery.
 - **Comprehensive Financial Tracking**:
-  - **Home Screen**: Displays total income, expenses, and net balance, with options to add categories and transactions.
-  - **Transactions Screen**: Lists all transactions sorted by date.
-  - **Balances Screen**: Manages assets, liabilities, and savings accounts, along with net worth calculation.
-  - **Budget Screen**: Provides a visual overview of budget utilization with color-coded progress bars.
+  - **Home Screen**: An overview of total income, expenses, and net balance, with the ability to add categories and transactions.
+  - **Transactions Screen**: Displays all transactions in a chronological list.
+  - **Balances Screen**: Offers detailed management of assets, liabilities, and savings accounts, along with net worth calculation.
+  - **Budget Screen**: Features dynamic progress bars that provide a visual overview of budget utilization with color-coded indicators.
 - **Category and Budget Creation**:
-  - Add **income** and **expense** categories.
-  - Set budgets for expense categories with visual indicators that change from teal to yellow to red as spending approaches the limit.
+  - Create and manage **income** and **expense** categories.
+  - Set budgets for expense categories with visual alerts that shift from teal to yellow to red as spending nears limits.
 - **Account Customization**:
-  - Supports various account types under assets (e.g., debit cards, real estate), liabilities (e.g., credit cards, loans), and savings (e.g., retirement, vacation).
+  - Supports diverse account types, such as assets (e.g., debit cards, real estate), liabilities (e.g., credit cards, loans), and savings (e.g., retirement funds, vacation savings).
 
 ## Screenshots
 
-The following screenshots demonstrate BudgetApp's functionality on **iOS**, highlighting its cross-platform design:
+Here are the screenshots demonstrating BudgetApp's functionality on **iOS**, highlighting its cross-platform design and user-friendly interface:
 
 ### User Authentication
 #### Login Screen
 ![Login Screen](./ThirdWheel%20Screenshots/Login/Login%20Screen.png)
-*The user login page, allowing access to the app.*
+*The login page for user access to the app.*
 
 #### Create Account Screen
 ![Create Account Screen](./ThirdWheel%20Screenshots/Login/Create%20Account%20Screen.png)
@@ -42,20 +42,20 @@ The following screenshots demonstrate BudgetApp's functionality on **iOS**, high
 
 #### Forgot Password Screen
 ![Forgot Password Screen](./ThirdWheel%20Screenshots/Login/Forgot%20Password%20Screen.png)
-*Password recovery interface.*
+*Password recovery screen.*
 
 ### Home Screen
 ![Home Screen](./ThirdWheel%20Screenshots/Home/Home%20Screen.png)
-*Displays an overview of total income, expenses, and net balance.*
+*Provides an overview of total income, expenses, and net balance.*
 
 ### Adding Categories
 #### Add Expense Category
 ![Add Expense Category](./ThirdWheel%20Screenshots/Home/Add%20Expense%20Category.png)
-*UI for adding an expense category, accessible via the floating action button, with an option to set a budget.*
+*Interface for adding a new expense category, accessible via the floating action button, with options to set a budget.*
 
 #### Add Income Category
 ![Add Income Category](./ThirdWheel%20Screenshots/Home/Add%20Income%20Category.png)
-*UI for adding an income category.*
+*Interface for adding a new income category.*
 
 ### Transactions
 #### Adding Transactions
@@ -64,45 +64,50 @@ The following screenshots demonstrate BudgetApp's functionality on **iOS**, high
 
 #### Updated Transactions
 ![Transactions Added](./ThirdWheel%20Screenshots/Transactions/Transactions%20Added.png)
-*Transaction screen updated with new entries.*
+*Screen updated with new transactions added to the list.*
 
 ### Account Management
 #### Balances Screen
 ![Balances Screen](./ThirdWheel%20Screenshots/Balances/Balances%20Screen.png)
-*Overview of assets, liabilities, and savings, with net worth calculation.*
+*Displays an overview of assets, liabilities, and savings, along with net worth calculation.*
 
 #### Add Account
 ![Add Account](./ThirdWheel%20Screenshots/Balances/Add%20Account.png)
-*UI for adding a new account via the floating action button.*
+*Interface for adding a new account via the floating action button.*
 
 #### Cash Account Added
 ![Cash Account Added](./ThirdWheel%20Screenshots/Balances/Cash%20Account%20Added.png)
-*Cash account displayed after creation.*
+*Newly created cash account shown in the balances screen.*
 
 #### Transfer Between Accounts
 ![Transfer UI](./ThirdWheel%20Screenshots/Balances/Transfer.png)
-*Interface for transferring funds between accounts.*
+*User interface for transferring funds between accounts.*
 
 ### Budget Management
 #### Budget Overview
 ![Budget Screen](./ThirdWheel%20Screenshots/Budget/Budget%20Screen.png)
-*Visual representation of budget utilization with progress bars.*
+*Visual representation of budget utilization, with progress bars indicating spending relative to limits.*
 
 #### Budget Progress
 ![Food Budget Updated](./ThirdWheel%20Screenshots/Budget/Food%20Budget%20Updated.png)
 *Progress bar updating after a transaction is made in the "Food" category.*
 
+#### Clothes Budget Added
+![Clothes Budget Updated](./ThirdWheel%20Screenshots/Budget/Clothes%20Budget%20Updated.png)
+*Budget added for the "Clothes" category, with progress bar tracking expenses.*
+
 ## Code Overview
-The app is developed using **Compose Multiplatform**, allowing a shared codebase for both Android and iOS. Key components include:
-- **HomeScreen.kt**: Manages income, expenses, and balance display, and handles category/transaction creation.
-- **TransactionsScreen.kt**: Lists all transactions and manages transaction data flow.
-- **BalancesScreen.kt**: Handles account management and net worth calculation.
-- **BudgetScreen.kt**: Visualizes budget progress and tracks spending limits.
+The BudgetApp is developed using **Compose Multiplatform**, ensuring a shared codebase for both Android and iOS. Below are the key components:
+
+- **HomeScreen.kt**: Manages the display of income, expenses, and balance. Also handles category and transaction creation.
+- **TransactionsScreen.kt**: Lists all transactions and manages data flow for transaction records.
+- **BalancesScreen.kt**: Manages account details, net worth calculation, and account-related operations.
+- **BudgetScreen.kt**: Visualizes budget utilization, tracks spending limits, and adjusts progress bar indicators accordingly.
 
 ## Technologies Used
-- **Compose Multiplatform** - Enables a shared UI for Android and iOS.
-- **Jetpack Compose** - Used for building UI components and managing navigation.
-- **Kotlin** - Primary programming language for the app.
-- **State Management** - Manages app data flow and UI state.
-- **Coroutines** - Handles asynchronous operations for smooth performance.
+- **Compose Multiplatform** - Enables a shared UI across Android and iOS.
+- **Jetpack Compose** - Used for building the user interface and managing navigation.
+- **Kotlin** - The primary programming language for the app.
+- **State Management** - Efficiently manages data flow and UI state across components.
+- **Coroutines** - Facilitates asynchronous operations for seamless performance.
 
