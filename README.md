@@ -1,4 +1,5 @@
-# ThirdWheel: Couples Budgeting - Compose Multiplatform
+# ThirdWheel: Couples Budgeting 
+Built for Two, Powered by Three
 
 ## Overview
 **BudgetApp** is a modern, cross-platform budgeting application built with **Compose Multiplatform** using **Jetpack Compose**. It provides a seamless **unified user interface** across both Android and iOS devices. Designed to be **minimalistic** and **user-friendly**, BudgetApp allows users to efficiently track **income, expenses, balances**, and **budgets**, making personal financial management simple and straightforward.
