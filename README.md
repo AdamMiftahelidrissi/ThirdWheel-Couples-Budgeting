@@ -30,53 +30,37 @@ Here are the screenshots demonstrating BudgetApp's functionality on **iOS** and 
 
 ### Android
 
-<div class="screenshots">
-  <figure>
-    <img src="https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Home.png" width="300">
-    <figcaption>Home Screen</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Transactions.png" width="300">
-    <figcaption>Transactions</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Balances.png" width="300">
-    <figcaption>Balances</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Budgets.png" width="300">
-    <figcaption>Budgets</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Dark%20Mode.png" width="300">
-    <figcaption>Dark Mode</figcaption>
-  </figure>
-</div>
+**Home Screen**  
+![Home](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Home.png)
+
+**Transactions**  
+![Transactions](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Transactions.png)
+
+**Balances**  
+![Balances](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Balances.png)
+
+**Budgets**  
+![Budgets](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Budgets.png)
+
+**Dark Mode**  
+![Dark Mode](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Dark%20Mode.png)
 
 ### iOS
 
-<div class="screenshots">
-  <figure>
-    <img src="https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Home.png" width="300">
-    <figcaption>Home Screen</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Transactions.png" width="300">
-    <figcaption>Transactions</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Balances.png" width="300">
-    <figcaption>Balances</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Budgets.png" width="300">
-    <figcaption>Budgets</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Dark%20Mode.png" width="300">
-    <figcaption>Dark Mode</figcaption>
-  </figure>
-</div>
+**Home Screen**  
+![Home](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Home.png)
+
+**Transactions**  
+![Transactions](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Transactions.png)
+
+**Balances**  
+![Balances](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Balances.png)
+
+**Budgets**  
+![Budgets](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Budgets.png)
+
+**Dark Mode**  
+![Dark Mode](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Dark%20Mode.png)
 
 ## Technologies Used
 - **Compose Multiplatform** - Enables a shared UI across Android and iOS.
