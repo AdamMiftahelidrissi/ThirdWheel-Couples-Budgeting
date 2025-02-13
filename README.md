@@ -26,72 +26,31 @@ BudgetApp boasts a robust set of features that ensure a comprehensive and user-c
 
 ## Screenshots
 
-Here are the screenshots demonstrating BudgetApp's functionality on **iOS**, highlighting its cross-platform design and user-friendly interface:
+Here are the screenshots demonstrating BudgetApp's functionality on **iOS** and **Android**, highlighting its cross-platform design and user-friendly interface:
 
-### User Authentication
-#### Login Screen
-![Login Screen](./ThirdWheel%20Screenshots/Login/Login%20Screen.png)
-*The login page for user access to the app.*
+**Android**
 
-#### Create Account Screen
-![Create Account Screen](./ThirdWheel%20Screenshots/Login/Create%20Account%20Screen.png)
-*Screen for new account registration.*
+https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Home.png
 
-#### Forgot Password Screen
-![Forgot Password Screen](./ThirdWheel%20Screenshots/Login/Forgot%20Password%20Screen.png)
-*Password recovery screen.*
+https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Transactions.png
 
-### Home Screen
-![Home Screen](./ThirdWheel%20Screenshots/Home/Home%20Screen.png)
-*Provides an overview of total income, expenses, and net balance.*
+https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Balances.png
 
-### Adding Categories
-#### Add Expense Category
-![Add Expense Category](./ThirdWheel%20Screenshots/Home/Add%20Expense%20Category.png)
-*Interface for adding a new expense category, accessible via the floating action button, with options to set a budget.*
+https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Budgets.png
 
-#### Add Income Category
-![Add Income Category](./ThirdWheel%20Screenshots/Home/Add%20Income%20Category.png)
-*Interface for adding a new income category.*
+https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Dark%20Mode.png
 
-### Transactions
-#### Adding Transactions
-![Add Food Transaction](./ThirdWheel%20Screenshots/Home/Add%20Food%20Transaction.png)
-*Adding a transaction to the "Food" category by clicking on it.*
+**iOS**
 
-#### Updated Transactions
-![Transactions Added](./ThirdWheel%20Screenshots/Transactions/Transactions%20Added.png)
-*Screen updated with new transactions added to the list.*
+https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Home.png
 
-### Account Management
-#### Balances Screen
-![Balances Screen](./ThirdWheel%20Screenshots/Balances/Balances%20Screen.png)
-*Displays an overview of assets, liabilities, and savings, along with net worth calculation.*
+https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Transactions.png
 
-#### Add Account
-![Add Account](./ThirdWheel%20Screenshots/Balances/Add%20Account.png)
-*Interface for adding a new account via the floating action button.*
+https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Balances.png
 
-#### Cash Account Added
-![Cash Account Added](./ThirdWheel%20Screenshots/Balances/Cash%20Account%20Added.png)
-*Newly created cash account shown in the balances screen.*
+https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Budgets.png
 
-#### Transfer Between Accounts
-![Transfer UI](./ThirdWheel%20Screenshots/Balances/Transfer.png)
-*User interface for transferring funds between accounts.*
-
-### Budget Management
-#### Budget Overview
-![Budget Screen](./ThirdWheel%20Screenshots/Budget/Budget%20Screen.png)
-*Visual representation of budget utilization, with progress bars indicating spending relative to limits.*
-
-#### Budget Progress
-![Food Budget Updated](./ThirdWheel%20Screenshots/Budget/Food%20Budget%20Updated.png)
-*Progress bar updating after a transaction is made in the "Food" category.*
-
-#### Clothes Budget Added
-![Clothes Budget Updated](./ThirdWheel%20Screenshots/Budget/Clothes%20Budget%20Updated.png)
-*Budget added for the "Clothes" category, with progress bar tracking expenses.*
+https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Dark%20Mode.png
 
 ## Technologies Used
 - **Compose Multiplatform** - Enables a shared UI across Android and iOS.
