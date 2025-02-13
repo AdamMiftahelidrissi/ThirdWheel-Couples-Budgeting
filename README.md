@@ -1,8 +1,27 @@
 # ThirdWheel: Couples Budgeting 
 **Built for Two, Powered by Three**
 
-## Overview
-**BudgetApp** is a modern, cross-platform budgeting application built with **Compose Multiplatform** using **Jetpack Compose**. It provides a seamless **unified user interface** across both Android and iOS devices. Designed to be **minimalistic** and **user-friendly**, BudgetApp allows users to efficiently track **income, expenses, balances**, and **budgets**, making personal financial management simple and straightforward.
+## 🚀 Overview  
+**ThirdWheel** is a modern, cross-platform budgeting app built with **Compose Multiplatform** and **Jetpack Compose**, providing a **seamless, unified experience** across Android and iOS. Designed with **simplicity and usability** in mind, ThirdWheel empowers couples to **collaboratively manage income, expenses, balances, and budgets**, making financial tracking effortless.
+
+### **ThirdWheel: Couples Budgeting — Budget for Two, Powered by Three**  
+Managing finances as a couple has never been easier! **ThirdWheel** is a **powerful yet intuitive budgeting tool** designed to bring financial transparency and teamwork into relationships. Whether you're tracking daily expenses, managing shared accounts, or setting savings goals, **ThirdWheel keeps both partners in sync—without the hassle.**  
+
+---
+
+### **🔑 Key Features**  
+
+✅ **Custom Categories** – Create fully personalized income & expense categories to organize spending and earnings exactly how you want.  
+
+✅ **Effortless Transaction Tracking** – Every financial move is recorded in a **shared transaction history**, so both partners stay informed in real-time.  
+
+✅ **Balances & Account Management** – Manage **bank accounts, debt, stocks, savings, and goals** with an interactive balance dashboard. Transactions automatically update **Assets, Liabilities, and Savings** in real-time.  
+
+✅ **Smart Budgeting** – Set up **custom budgets per category**, track expenses visually, and adjust as needed. Choose between **monthly or biweekly** budget resets to fit your financial cycle.  
+
+✅ **Dark Mode** – Keep your budgeting experience sleek and easy on the eyes with a fully integrated **dark mode**.  
+
+✅ **Collaborative Finance, Made Simple** – With **live shared sessions**, both partners can **edit categories, transactions, balances, and budgets in real-time**, ensuring full transparency and teamwork.  
 
 ## Table of Contents
 - [Features](#features)
