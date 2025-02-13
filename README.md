@@ -28,29 +28,29 @@ BudgetApp boasts a robust set of features that ensure a comprehensive and user-c
 
 Here are the screenshots demonstrating BudgetApp's functionality on **iOS** and **Android**, highlighting its cross-platform design and user-friendly interface:
 
-**Android**
+### Android
 
-https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Home.png
+![Home](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Home.png)
 
-https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Transactions.png
+![Transactions](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Transactions.png)
 
-https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Balances.png
+![Balances](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Balances.png)
 
-https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Budgets.png
+![Budgets](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Budgets.png)
 
-https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Dark%20Mode.png
+![Dark Mode](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/Android%20Screenshots/Dark%20Mode.png)
 
-**iOS**
+### iOS
 
-https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Home.png
+![Home](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Home.png)
 
-https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Transactions.png
+![Transactions](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Transactions.png)
 
-https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Balances.png
+![Balances](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Balances.png)
 
-https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Budgets.png
+![Budgets](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Budgets.png)
 
-https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Dark%20Mode.png
+![Dark Mode](https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Dark%20Mode.png)
 
 ## Technologies Used
 - **Compose Multiplatform** - Enables a shared UI across Android and iOS.
