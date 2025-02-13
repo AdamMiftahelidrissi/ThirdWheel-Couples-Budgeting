@@ -6,7 +6,6 @@
 ## Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Code Overview](#code-overview)
 - [Technologies Used](#technologies-used)
 
 ## Features
@@ -94,18 +93,12 @@ Here are the screenshots demonstrating BudgetApp's functionality on **iOS**, hig
 ![Clothes Budget Updated](./ThirdWheel%20Screenshots/Budget/Clothes%20Budget%20Updated.png)
 *Budget added for the "Clothes" category, with progress bar tracking expenses.*
 
-## Code Overview
-The BudgetApp is developed using **Compose Multiplatform**, ensuring a shared codebase for both Android and iOS. Below are the key components:
-
-- **HomeScreen.kt**: Manages the display of income, expenses, and balance. Also handles category and transaction creation.
-- **TransactionsScreen.kt**: Lists all transactions and manages data flow for transaction records.
-- **BalancesScreen.kt**: Manages account details, net worth calculation, and account-related operations.
-- **BudgetScreen.kt**: Visualizes budget utilization, tracks spending limits, and adjusts progress bar indicators accordingly.
-
 ## Technologies Used
 - **Compose Multiplatform** - Enables a shared UI across Android and iOS.
 - **Jetpack Compose** - Used for building the user interface and managing navigation.
 - **Kotlin** - The primary programming language for the app.
 - **State Management** - Efficiently manages data flow and UI state across components.
 - **Coroutines** - Facilitates asynchronous operations for seamless performance.
+- **Firebase Authentication** - Provides secure authentication for users.
+- **Firebase Firestore** - A NoSQL cloud database for real-time data storage and syncing.
 
