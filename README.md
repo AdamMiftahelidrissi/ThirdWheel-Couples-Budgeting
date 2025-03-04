@@ -10,6 +10,9 @@ Managing finances as a couple has never been easier! **ThirdWheel** is a **power
 ## **Install Here**
 
 [**Install Here**](https://adammiftahelidrissi.github.io/ThirdWheel-Website/) or https://adammiftahelidrissi.github.io/ThirdWheel-Website/
+
+You can access the project directly here:  
+[**ThirdWheel Website**](https://adammiftahelidrissi.github.io/ThirdWheel-Website/)
 ---
 
 ## Table of Contents
