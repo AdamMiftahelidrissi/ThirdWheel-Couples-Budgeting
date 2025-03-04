@@ -7,11 +7,8 @@
 ### **ThirdWheel: Couples Budgeting — Budget for Two, Powered by Three**  
 Managing finances as a couple has never been easier! **ThirdWheel** is a **powerful yet intuitive budgeting tool** designed to bring financial transparency and teamwork into relationships. Whether you're tracking daily expenses, managing shared accounts, or setting savings goals, **ThirdWheel keeps both partners in sync—without the hassle.**  
 
-## **Install Here**
-
-[**Install Here**](https://adammiftahelidrissi.github.io/ThirdWheel-Website/) or https://adammiftahelidrissi.github.io/ThirdWheel-Website/
-
-You can access the project directly here:  
+## **Install ThirdWheel**
+Get started by accessing the website here:  
 [**ThirdWheel Website**](https://adammiftahelidrissi.github.io/ThirdWheel-Website/)
 ---
 
