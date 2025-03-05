@@ -75,9 +75,8 @@ Here are the screenshots demonstrating ThirdWheel's functionality on **iOS** and
 <img src="https://github.com/AdamMiftahelidrissi/ThirdWheel-Couples-Budgeting/blob/main/iOS%20Screenshots/Dark%20Mode.png" width="300">
 
 ## Technologies Used
-- **Compose Multiplatform** - Enables a shared UI across Android and iOS.
+- **Kotlin Multiplatform** - Enables a shared codebase across Android and iOS.
 - **Jetpack Compose** - Used for building the user interface and managing navigation.
-- **Kotlin** - The primary programming language for the app.
 - **State Management** - Efficiently manages data flow and UI state across components.
 - **Coroutines** - Facilitates asynchronous operations for seamless performance.
 - **Firebase Authentication** - Provides secure authentication for users.
