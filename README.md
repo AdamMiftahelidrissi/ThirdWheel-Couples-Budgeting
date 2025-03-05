@@ -2,7 +2,7 @@
 **Built for Two, Powered by Three**
 
 ## Overview  
-**ThirdWheel** is a modern, cross-platform budgeting app built with **Compose Multiplatform** and **Jetpack Compose**, providing a **seamless, unified experience** across Android and iOS. Designed with **simplicity and usability** in mind, ThirdWheel empowers couples to **collaboratively manage income, expenses, balances, and budgets**, making financial tracking effortless.
+**ThirdWheel** is a modern, cross-platform budgeting app built with **Kotlin Multiplatform** and **Jetpack Compose**, providing a **seamless, unified experience** across Android and iOS. Designed with **simplicity and usability** in mind, ThirdWheel empowers couples to **collaboratively manage income, expenses, balances, and budgets**, making financial tracking effortless.
 
 ### **ThirdWheel: Couples Budgeting — Budget for Two, Powered by Three**  
 Managing finances as a couple has never been easier! **ThirdWheel** is a **powerful yet intuitive budgeting tool** designed to bring financial transparency and teamwork into relationships. Whether you're tracking daily expenses, managing shared accounts, or setting savings goals, **ThirdWheel keeps both partners in sync—without the hassle.**  
